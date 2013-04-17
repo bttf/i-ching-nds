@@ -1,1 +1,0 @@
-MainBg.o: MainBg.s
