@@ -2,9 +2,11 @@
 
 discover your fortune with this automatic hexagram generator to be used with the [I-CHING][], the ancient chinese book of changes.
 
-run this on your NDS via flashcart or on your favorite NintendoDS emulator, and hit 'Automatic'. In a few seconds, the NDS will give you a randomly-generated hexagram that you can look up in your favorite copy of the I-Ching (or online). there you will find your fortune and the answers to life. this i-ching hexagram generator implements the ['two-coin method'][divination].
-
-this project was half-completed in the summer of 2012
+## get it up and running
+1. Get your [devkitpro environment](http://devkitpro.org/wiki/Getting_Started) downloaded and installed somewhere (make get it with devkitARM).
+2. Clone.
+3. 'make'.
+4. Load the .nds file onto your NDS flashcart, or loasd with your favorite NintendoDS emulator.
 
 ## License
 
